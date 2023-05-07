@@ -1,4 +1,18 @@
 ---
+description: "The short life of Ian Teda"
+summary: "The short life of Ian Teda"
+keywords: "Ian Teda"
+date: 1977-09-15
+lastmod: 2023-05-07 #The datetime at which the content was last modified.
+publishDate: 2023-05-07 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
+draft: false #If `true`, the content will not be rendered unless the `--buildDrafts` flag is passed to the `hugo` command.
+headless: false #If `true`, sets a leaf bundle to be [headless](https://gohugo.io/content-management/page-bundles/#headless-bundle).
+weight: 0 #Used for [ordering your content in lists
+featureImage: "ian-intake-tower.png" # Sets featured image on blog post.
+featureImageAlt: 'Ian Teda - Cotter Dam Intake Tower Jump Form' # Alternative text for featured image.
+featureImageCap: 'Ian Teda - Cotter Dam Intake Tower Jump Form' # Caption (optional).
+thumbnail: "ian-intake-tower.png" # Sets thumbnail image appearing inside card on homepage.
+shareImage: "ian-intake-tower.png" # Designate a separate image for social media sharing.
 type: single
 ---
 

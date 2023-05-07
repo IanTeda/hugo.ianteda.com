@@ -12,6 +12,7 @@
     "@babel/core": "^7.21.4",
     "@babel/preset-env": "^7.21.4",
     "@babel/register": "^7.21.0",
+    "del": "^7.0.0",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-image-resize": "^0.13.1",
@@ -19,6 +20,8 @@
     "gulp-plumber": "^1.2.1",
     "gulp-rename": "^2.0.0",
     "gulp-size": "^4.0.1",
-    "imagemin-pngquant": "^9.0.2"
+    "gulp-strip-debug": "^5.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "vinyl-paths": "^5.0.0"
   }
 }
