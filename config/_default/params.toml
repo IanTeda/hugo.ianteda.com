@@ -9,7 +9,7 @@ largeTwitterCard = false
 introDescription = "Adding value by being authentic, creative, disciplined and curious. A husband, father, engineer, explorer and creator."
 
 # set the url for the 'read more' button below the introDescription, or set to false to not show the button
-introURL = "now-now-now/"
+introURL = "now/"
 
 # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 description = "The homepage for Ian Teda. Adding value by being authentic, creative, disciplined and curious. A husband, father, engineer, explorer and creator."

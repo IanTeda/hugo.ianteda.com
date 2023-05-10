@@ -1,12 +1,12 @@
 ---
-title: "Now Now Now"
-linkTitle: "Now Now Now"
+title: "Now"
+linkTitle: "Now"
 description: "A quick update on what I am doing now."
 summary: "A quick update on what I am doing now"
 keywords: "now now now"
-date: 2015-11-15 #The datetime assigned to this page.
-lastmod: 2023-04-18 #The datetime at which the content was last modified.
-publishDate: 2023-04-18 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
+date: 2023-05-10 #The datetime assigned to this page.
+lastmod: 2023-05-10 #The datetime at which the content was last modified.
+publishDate: 2023-05-10 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
 categories:
 - "About Me"
 tags:

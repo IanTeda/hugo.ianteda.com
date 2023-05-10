@@ -22,8 +22,7 @@ type: single
 
 ___
 
-
-I enjoy an adventure, exploring what is around the next corner while trying to be the best version of myself. My most exciting adventure at the moment is raising my three boys – Austin, Dillan and Reuben – with my beautiful wife, Laura.
+I enjoy an adventure, exploring what is around the next corner while trying to be the best version of myself. My current and most thrilling adventure is raising my three sons with my lovely wife.
 
 I have been fortunate to work as a Civil Engineer on some amazing projects within NSW and ACT Australia. Some highlights that I am proud to say I was involved in including: 
 - balanced cantilever segmental bridges
@@ -33,11 +32,11 @@ I have been fortunate to work as a Civil Engineer on some amazing projects withi
 - the Sydney Light Rail design
 - school redevelopments
 
-My hard work and determination has come with the satisfaction of seeing large infrastructure projects born from design concepts to reality. Projects that I am proud to tell my boys I have worked on and helped create.
+My hard work and determination has come with the satisfaction of seeing large infrastructure projects born from design concepts to reality, projects that I am proud to tell my boys I have worked on and help create.
 
-To find out more about my work, check out my LinkedIn Profile.
+To find out more about my work, check out my (LinkedIn Profile)[https://www.linkedin.com/in/ianteda/].
 
-To find out what I am up to right now, check out my now-now-now page.
+To find out what I am up to right now, check out my (now)[now.html] page.
 
 # Code
 
