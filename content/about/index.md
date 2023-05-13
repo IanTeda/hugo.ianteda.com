@@ -15,7 +15,7 @@ tags:
 - "ianteda.com"
 draft: false #If `true`, the content will not be rendered unless the `--buildDrafts` flag is passed to the `hugo` command.
 weight: 0 #Used for [ordering your content in lists
-type: single
+type: "single"
 ---
 
 ![](head-shot.png)Head Shot

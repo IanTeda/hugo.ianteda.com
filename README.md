@@ -2,8 +2,8 @@
 
 Hugo static website for www.ianteda.com
 
-```shell
-hugo server --noHTTPCache  
+```bash
+hugo server --noHTTPCache --disableFastRender  
 ```
 
 ## Theme

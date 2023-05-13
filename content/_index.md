@@ -6,7 +6,7 @@ date: 2010-09-15
 featureImage: "ian-intake-tower.png" # Sets featured image on blog post.
 featureImageAlt: 'Ian Teda - Cotter Dam Intake Tower Jump Form' # Alternative text for featured image.
 featureImageCap: 'Ian Teda - Cotter Dam Intake Tower Jump Form' # Caption (optional).
-type: single
+type: "single"
 draft: false
 ---
 
@@ -30,7 +30,7 @@ My hard work and determination has come with the satisfaction of seeing large in
 
 To find out more about my work, check out my (LinkedIn Profile)[https://www.linkedin.com/in/ianteda/].
 
-To find out what I am up to right now, check out my (now)[now.html] page.
+To find out what I am up to right now, check out my (now)[/now] page.
 
 # Code
 
