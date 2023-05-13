@@ -30,8 +30,6 @@ To find out more about me check out the [Landing Page](/)
 
 To find out what I am working on check out the [Now](/now.html)    
 
-___
-
 #### Footnotes
 
 [^1]: [Podcast: Scott Adams: The Man Behind Dilbert](http://fourhourworkweek.com/2015/09/22/scott-adams-the-man-behind-dilbert/)[↩︎](↩︎)

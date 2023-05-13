@@ -2,11 +2,12 @@
 description: "The short life of Ian Teda"
 summary: "The short life of Ian Teda"
 keywords: "Ian Teda"
-date: 1977-09-15
+date: 2010-09-15
 featureImage: "ian-intake-tower.png" # Sets featured image on blog post.
 featureImageAlt: 'Ian Teda - Cotter Dam Intake Tower Jump Form' # Alternative text for featured image.
 featureImageCap: 'Ian Teda - Cotter Dam Intake Tower Jump Form' # Caption (optional).
 type: single
+draft: false
 ---
 
 # Ian Teda
