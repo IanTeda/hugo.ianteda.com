@@ -1,6 +1,6 @@
 ---
-title: "Landing page ianteda.com"
-linkTitle: "Landing page ianteda.com"
+title: "ianteda.com"
+linkTitle: "ianteda.com"
 description: "The short life of Ian Teda"
 summary: "The short life of Ian Teda"
 keywords: "Ian Teda"
