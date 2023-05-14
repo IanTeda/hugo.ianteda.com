@@ -29,9 +29,9 @@ gulp.task("featureImage", () => {
         }))
         .pipe(imageResize({
             width: 1008,
-            // height : 100,
-            // crop : true,
-            // upscale : false
+            height : 562,
+            crop : true,
+            upscale : false
         }))
         .pipe(imagemin({
             progressive: true,
@@ -118,7 +118,8 @@ gulp.task("shareImage", () => {
 gulp.task("otherImages", () => {
     // Source and destination files
     const files = {
-        src: ['!./content/**/cover.jpg',
+        src: [
+            '!./content/**/cover.jpg',
             '!./content/**/feature.png',
             '!./content/**/share.png',
             '!./content/**/thumbnail.jpg',
@@ -154,4 +155,4 @@ gulp.task("otherImages", () => {
         .pipe(gulp.dest(files.dest));
 });
 
-gulp.task('default', gulp.parallel("featureImage", "thumbnailImage", "shareImage", "otherImages"));
+gulp.task('default', gulp.parallel("featureImage", "thumbnailImage", "shareImage"));
