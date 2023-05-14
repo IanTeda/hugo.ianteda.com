@@ -1,4 +1,6 @@
 ---
+title: "Landing page ianteda.com"
+linkTitle: "Landing page ianteda.com"
 description: "The short life of Ian Teda"
 summary: "The short life of Ian Teda"
 keywords: "Ian Teda"
@@ -6,8 +8,15 @@ date: 2010-09-15
 featureImage: "ian-intake-tower.png" # Sets featured image on blog post.
 featureImageAlt: 'Ian Teda - Cotter Dam Intake Tower Jump Form' # Alternative text for featured image.
 featureImageCap: 'Ian Teda - Cotter Dam Intake Tower Jump Form' # Caption (optional).
+categories:
+- "About Me"
+tags:
+- "About Me"
+- "Ian Teda"
+- "ianteda.com"
+draft: false #If `true`, the content will not be rendered unless the `--buildDrafts` flag is passed to the `hugo` command.
+weight: 0 #Used for [ordering your content in lists
 type: "single"
-draft: false
 ---
 
 # Ian Teda
