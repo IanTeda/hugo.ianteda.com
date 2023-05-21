@@ -23,4 +23,3 @@ hugo serve  --themesDir ../..
 ## Theme
 
 * [Minimo Theme](https://github.com/MunifTanjim/minimo)
-* [Hugo Clarity Theme](https://github.com/chipzoller/hugo-clarity)

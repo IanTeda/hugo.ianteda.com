@@ -10,19 +10,13 @@ publishDate: 2019-01-01 #If, in the future, the content will not be rendered unl
 # categories:
 # - "Engineering Rule Book"
 series:
-    - "S1"
+    - "Engineering Rule Book"
 tags:
-    - "Engineering"
-    - "Rules"
-draft: false #If `true`, the content will not be rendered unless the `--buildDrafts` flag is passed to the `hugo` command.
-headless: false #If `true`, sets a leaf bundle to be [headless](https://gohugo.io/content-management/page-bundles/#headless-bundle).
-weight: 0 #Used for [ordering your content in lists
-toc: false # Controls if a table of contents should be generated for first-level links automatically.
-featureImage: "feature.png" # Sets featured image on blog post.
-featureImageAlt: 'Cover feature image' # Alternative text for featured image.
-featureImageCap: 'Cover feature image.' # Caption (optional).
-thumbnail: "thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-shareImage: "share.png" # Designate a separate image for social media sharing.
+    - "Engineering Rule Book"
+cover:
+  image: hydepark-night-crop.jpg
+  caption: "Hyde Park - Early Morning"
+  style: full
 ---
 
 > Much of life is a dichotomy, a contradiction and construction life is no different.

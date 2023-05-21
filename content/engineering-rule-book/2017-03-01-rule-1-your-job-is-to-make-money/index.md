@@ -8,23 +8,19 @@ keywords: "make money"
 date: 2017-03-01 #The datetime assigned to this page.
 lastmod: 2017-03-01 #The datetime at which the content was last modified.
 publishDate: 2017-03-01 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
-slug: rule-1-make-money.html
+slug: rule-1-make-money
 # categories:
 # - "Engineering Rule Book"
 series:
-    - "S1"
+    - "Engineering Rule Book"
 tags:
     - Engineering
     - Rules
-draft: false #If `true`, the content will not be rendered unless the `--buildDrafts` flag is passed to the `hugo` command.
-headless: false #If `true`, sets a leaf bundle to be [headless](https://gohugo.io/content-management/page-bundles/#headless-bundle).
-weight: 0 #Used for [ordering your content in lists
-toc: false # Controls if a table of contents should be generated for first-level links automatically.
-featureImage: "feature.png" # Sets featured image on blog post.
-featureImageAlt: 'Cover feature image' # Alternative text for featured image.
-featureImageCap: 'Cover feature image.' # Caption (optional).
-thumbnail: "thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-shareImage: "share.png" # Designate a separate image for social media sharing.
+toc: true
+cover:
+  image: harbour-bridge-walkway-crop.jpg
+  caption: "Sydney Harbour Bridge Walkway"
+  style: full
 ---
 
 > Your job is to make money. By building it safely, building it once and leaving a positive legacy
@@ -37,7 +33,7 @@ With that reality understood, it is important to highlight that the best way to 
 
 Say you have two identical projects and on one project someone gets hurt, they have to build it twice and they allow pollution into a local river. Which project will make more money?
 
-### Safety
+## Safety
 
 Fully appreciating the personal impact on those involved in a safety incident and the negative legacy it leaves behind, if you are worried about meeting the program and budget then the last thing you need is a safety incident.
 
@@ -45,13 +41,13 @@ If you consider your project budget has a 10% profit built in and work gets affe
 
 > The best way to make money is to do the job safely and avoid any lost time injuries.
 
-### Quality
+## Quality
 
 Cutting corners is a short game, you may win once or twice but in the end probability always wins and you will have on your hands rework. So keep in mind and respect *[Rule 6 - The Six P's: Prior Planning Prevents Piss Poor Performance](/engineering-rules/rule-6-respect-the-6-ps/)*. By planning the work, communicating the plan, monitoring the performance of the plan and adapting when needed.
 
 > The best way to make money is to do the job once and do it right
 
-### Legacy
+## Legacy
 
 Legacy is about what you leave behind. A positive legacy is leaving things better than how you found them. And the legacy you leave behind is your reputation, your promise and your promise is your brand. If your clients do not trust your brand then you will soon have no work on hand. While it is important to live in the present, don’t lose focus on the long game.
 
