@@ -10,8 +10,11 @@ summary: "The landing page for ianteda.com"
 keywords: "Ian Teda, Teda"
 date: 2023-05-10
 lastmod: 2023-05-21
-publishDate: 2023-05-101
-toc: true
+publishDate: 2023-05-10
+cover:
+  image: ian-intake-tower_crop.jpg
+  caption: "Ian Teda - Working on the Cotter dam intake tower jump form"
+  style: full
 ---
 
 > Hi, I am Ian Teda and this my story so far:

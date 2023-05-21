@@ -2,7 +2,6 @@
 title: "Now"
 linkTitle: "Now"
 description: "A quick update on what I am doing now."
-summary: "A quick update on what I am doing now"
 keywords: "now now now"
 date: 2023-05-10 #The datetime assigned to this page.
 lastmod: 2023-05-10 #The datetime at which the content was last modified.
@@ -12,7 +11,7 @@ categories:
 tags:
 - "ianteda.com"
 cover:
-  image: kiama-gerringong_walk_crop.jpg
+  image: kiama-gerringong-walk-crop.jpg
   caption: Kiama hills on the Kiama to Gerringong walk
   style: full
 ---
