@@ -10,22 +10,12 @@ publishDate: 2023-05-10 #If, in the future, the content will not be rendered unl
 categories:
 - "About Me"
 tags:
-- "About Me"
-- "Ian Teda"
 - "ianteda.com"
-- "now"
-draft: false #If `true`, the content will not be rendered unless the `--buildDrafts` flag is passed to the `hugo` command.
-headless: false #If `true`, sets a leaf bundle to be [headless](https://gohugo.io/content-management/page-bundles/#headless-bundle).
-weight: 0 #Used for [ordering your content in lists
-type: single
-featureImage: "feature.png" # Sets featured image on blog post.
-featureImageAlt: 'Kiama to Gerringong hike.' # Alternative text for featured image.
-featureImageCap: 'Kiama to Gerringong hike.' # Caption (optional).
-thumbnail: "thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-shareImage: "share.png" # Designate a separate image for social media sharing.
+cover:
+  image: kiama-gerringong_walk_crop.jpg
+  caption: Kiama hills on the Kiama to Gerringong walk
+  style: full
 ---
-
-![Scenario 1: Across columns](feature.png)
 
 What am I up to right now (May 2023)?
 

@@ -1,8 +1,10 @@
-[[main]]
-name = "Blogs"
-weight = 1
-identifier = "blogs"
-url = "/blogs/"
+## Menu items are set in leaf breach _index.md
+
+# [[main]]
+# name = "Blogs"
+# weight = 1
+# identifier = "blogs"
+# url = "/blogs/"
 
 [[main]]
 name = "Now"

@@ -1,9 +1,17 @@
 ---
-title: Home
-# menu:
-#   - main
-#   - sidebar
-# weight: -270
+title: "Home"
+menu:
+  - main
+  - sidebar
+weight: -270
+linkTitle: "Home"
+description: "The landing page for ianteda.com"
+summary: "The landing page for ianteda.com"
+keywords: "Ian Teda, Teda"
+date: 2023-05-10
+lastmod: 2023-05-21
+publishDate: 2023-05-101
+toc: true
 ---
 
 > Hi, I am Ian Teda and this my story so far:
@@ -22,23 +30,19 @@ I have been fortunate to work as a Civil Engineer on some amazing projects withi
 
 My hard work and determination has come with the satisfaction of seeing large infrastructure projects born from design concepts to reality, projects that I am proud to tell my boys I have worked on and help create.
 
-To find out more about my work, check out my (LinkedIn Profile)[https://www.linkedin.com/in/ianteda/].
+To find out more about my work, check out my [LinkedIn Profile](https://www.linkedin.com/in/ianteda/).
 
-To find out what I am up to right now, check out my (now)[/now] page.
+To find out what I am up to right now, check out my [now](/now) page.
 
-# Code
+## Code
 
 > What I am trying to live by:
 
-___
-
 I chose to be authentic through honesty, integrity and transparency. With a spirit for creativity, imagination and adventure. Striving to be uncomfortable by being curious, learning, growing and reflecting. Looking for freedom through the discipline of habit. But most of all, I am trying to be useful by adding value to my work and who I am. – Ian Teda
 
-# Skills
+## Skills
 
 > My curiosity has lead to skills in:
-
-___
 
 - **Leadership:** Project Management, Cost Management, Scheduling, Estimating, Community, & Contract Management;
 - **Engineering:** Bridges, Drainage, Dams, Water, Precast, Bulk Earthworks, Drill & Blast, Diaphragm Wall Tunnels, Structures & Light Rail, Engineering Rule Book;

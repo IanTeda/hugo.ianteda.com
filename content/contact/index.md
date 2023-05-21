@@ -5,13 +5,10 @@ date: 2023-05-10 #The datetime assigned to this page.
 lastmod: 2023-05-21 #The datetime at which the content was last modified.
 publishDate: 2023-05-10 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
 cover:
-  image: ian-intake-tower.jpg
-  caption: "Ian Teda working on an intake tower jump form"
+  image: ian-intake-tower_crop.jpg
+  caption: "Ian Teda - Working on the Cotter dam intake tower jump form"
   style: full
 ---
 
-Mínimo is a Spanish word that roughly translate to Minimal.
+I can be contacted on any of the socials links below or [mailto:ian@teda.id.au](mailto:ian@teda.id.au)
 
-Minimo is a minimalist theme for Hugo.
-
-Minimo keeps the focus on your content and lets it shine!
