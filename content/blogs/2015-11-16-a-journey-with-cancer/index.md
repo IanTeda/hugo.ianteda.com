@@ -5,27 +5,17 @@ description: "My father's journey with cancer demonstrated his character well, t
 summary: " My father's journey with cancer demonstrated his character well, the person he was and the life that he lived."
 keywords: "cancer"
 date: 2015-11-15 #The datetime assigned to this page.
-lastmod: 2018-12-16 #The datetime at which the content was last modified.
+lastmod: 2023-05-10 #The datetime at which the content was last modified.
 publishDate: 2018-12-16 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
 slug: a-journey-with-cancer.html
 categories:
 - Blogs
 tags:
 - Family
-draft: false #If `true`, the content will not be rendered unless the `--buildDrafts` flag is passed to the `hugo` command.
-headless: false #If `true`, sets a leaf bundle to be [headless](https://gohugo.io/content-management/page-bundles/#headless-bundle).
 weight: 0 #Used for [ordering your content in lists
-featured: true # Sets if post is a featured post, making it appear on the sidebar. A featured post won't be listed on the sidebar if it's the current page
-draft: false # Sets whether to render this page. Draft of true will not be rendered.
-toc: false # Controls if a table of contents should be generated for first-level links automatically.
-featureImage: "feature.png" # Sets featured image on blog post.
-featureImageAlt: 'Cover feature image' # Alternative text for featured image.
-featureImageCap: 'Cover feature image.' # Caption (optional).
-thumbnail: "thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-shareImage: "share.png" # Designate a separate image for social media sharing.
 cover:
-  image: feature.png
-  caption: feature image
+  image: dirk-teda-rover-crop.jpg
+  caption: "Dirk Teda - Old Land Rover"
   style: full
 ---
 

@@ -1,5 +1,4 @@
 ---
-# [Front Matter Formats](https://gohugo.io/content-management/front-matter/)
 title: "Letter 1 - A Letter to My Sons"
 linkTitle: "Letter 1 - A Letter to My Sons"
 description: "Give thanks for what you have and for the joy of life. If you see no reason to give thanks, the fault lies only in yourself."
@@ -8,22 +7,17 @@ keywords: "thanks, joy, life"
 date: 2015-12-10 #The datetime assigned to this page.
 lastmod: 2019-01-01 #The datetime at which the content was last modified.
 publishDate: 2019-01-01 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
-slug: a-letter-to-my-sons.html
+slug: letter-1-to-my-sons
 categories:
     - Family
 series:
     - "Letters to My Sons"
 tags:
     - "life"
-draft: false #If `true`, the content will not be rendered unless the `--buildDrafts` flag is passed to the `hugo` command.
-headless: false #If `true`, sets a leaf bundle to be [headless](https://gohugo.io/content-management/page-bundles/#headless-bundle).
-weight: 0 #Used for [ordering your content in lists
-toc: false # Controls if a table of contents should be generated for first-level links automatically.
-featureImage: "feature.png" # Sets featured image on blog post.
-featureImageAlt: 'Cover feature image' # Alternative text for featured image.
-featureImageCap: 'Cover feature image.' # Caption (optional).
-thumbnail: "thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-shareImage: "share.png" # Designate a separate image for social media sharing.
+cover:
+  image: helicopter_foot_crop.jpg
+  caption: "Lego helicopter"
+  style: full
 ---
 
 Live, love, be generous, show respect and give thanks.

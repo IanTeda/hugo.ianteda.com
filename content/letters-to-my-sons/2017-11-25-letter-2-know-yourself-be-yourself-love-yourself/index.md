@@ -7,7 +7,7 @@ keywords: "yourself"
 date: 2017-11-25 #The datetime assigned to this page.
 lastmod: 2019-01-01 #The datetime at which the content was last modified.
 publishDate: 2019-01-01 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
-slug: know-yourself-be-yourself-love-yourself.html
+slug: letter-2-know-yourself-be-yourself-love-yourself
 categories:
 - "Letters"
 series:
@@ -15,15 +15,10 @@ series:
 tags:
 - "Letters"
 - "Better Me"
-draft: false #If `true`, the content will not be rendered unless the `--buildDrafts` flag is passed to the `hugo` command.
-headless: false #If `true`, sets a leaf bundle to be [headless](https://gohugo.io/content-management/page-bundles/#headless-bundle).
-weight: 0 #Used for [ordering your content in lists
-toc: false # Controls if a table of contents should be generated for first-level links automatically.
-featureImage: "feature.png" # Sets featured image on blog post.
-featureImageAlt: 'Cover feature image' # Alternative text for featured image.
-featureImageCap: 'Cover feature image.' # Caption (optional).
-thumbnail: "thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-shareImage: "share.png" # Designate a separate image for social media sharing.
+cover:
+  image: fire_trail_crop.jpg
+  caption: "Fire Trail"
+  style: full
 ---
 
 On the subject of self-awareness,
