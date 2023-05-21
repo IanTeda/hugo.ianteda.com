@@ -40,9 +40,5 @@ themes/stack/
 resources/
 
 
-
-
-
-
 # Hugo built on Github, so let's not commit public
-public/*
+public/
