@@ -9,21 +9,24 @@ lastmod: 2018-12-16 #The datetime at which the content was last modified.
 publishDate: 2018-12-16 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
 slug: a-journey-with-cancer.html
 categories:
-- Blog
+- Blogs
 tags:
 - Family
-- tag_2
 draft: false #If `true`, the content will not be rendered unless the `--buildDrafts` flag is passed to the `hugo` command.
 headless: false #If `true`, sets a leaf bundle to be [headless](https://gohugo.io/content-management/page-bundles/#headless-bundle).
 weight: 0 #Used for [ordering your content in lists
 featured: true # Sets if post is a featured post, making it appear on the sidebar. A featured post won't be listed on the sidebar if it's the current page
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 featureImage: "feature.png" # Sets featured image on blog post.
 featureImageAlt: 'Cover feature image' # Alternative text for featured image.
 featureImageCap: 'Cover feature image.' # Caption (optional).
 thumbnail: "thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
 shareImage: "share.png" # Designate a separate image for social media sharing.
+cover:
+  image: feature.png
+  caption: feature image
+  style: full
 ---
 
 I would like to acknowledge and thank all those that helped and supported my father at the end of his journey and the Teda family after his passing. Your love is very much appreciated and heartfelt. Thank You.

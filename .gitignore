@@ -14,7 +14,34 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-/node_modules
+node_modules/
+
+config/clarity/
+config/cleanwhite/
+config/coder/
+config/introduction/
+config/paige/
+
+content-coder/
+content-introduction/
+content-old/
+
+themes/clarity/
+themes/cleanwhite/
+themes/coder/
+themes/hello-friend/
+themes/introduction/
+themes/kaslaanka/
+themes/paige/
+themes/pulp/
+themes/second-brain/
+themes/stack/
+
+resources/_gen/
+
+
+
+
 
 
 # Hugo built on Github, so let's not commit public

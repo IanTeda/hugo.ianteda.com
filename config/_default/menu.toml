@@ -1,0 +1,29 @@
+[[main]]
+name = "Blogs"
+weight = 1
+identifier = "blogs"
+url = "/blogs/"
+
+[[main]]
+name = "Now"
+weight = 2
+identifier = "now"
+url = "/now/"
+
+[[main]]
+name = "Contact"
+weight = 3
+identifier = "contact"
+url = "/contact/"
+
+# [[sidebar]]
+#     name = "Blogs"
+#     weight = -99
+#     identifier = "blogs"
+#     url = "/blogs/"
+
+# [[sidebar]]
+#     name = "Contact"
+#     weight = 2
+#     identifier = "contacts"
+#     url = "/contacts/"

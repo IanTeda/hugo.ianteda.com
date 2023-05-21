@@ -25,6 +25,8 @@ thumbnail: "thumbnail.png" # Sets thumbnail image appearing inside card on homep
 shareImage: "share.png" # Designate a separate image for social media sharing.
 ---
 
+![Scenario 1: Across columns](feature.png)
+
 What am I up to right now (May 2023)?
 
 Hanging out in Sydney with the family while working on Moorebank Avenue Relocation Works (MARW) for GHD with National Intermodal.

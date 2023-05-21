@@ -1,28 +1,41 @@
-# set `baseurl` to your root domain
-# if you set it to "/" share icons won't work properly on production
-baseurl = "https://ianteda.github.io/hugo.ianteda.com/"  # Include trailing slash
+baseURL = "https://ianteda.github.io/hugo.ianteda.com/"
+title = "Ian Teda"
+# for smart copyright line, leave this blank and check [params.copyright]
+copyright = ""
 
-# Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
-# title = "Clarity"
+theme = "minimo"
 
-copyright = "Ian Teda"
-
-# canonifyurls = true
-paginate = 10
-theme = "hugo-clarity"
 disqusShortname = ""
+googleAnalytics = ""
 
-DefaultContentLanguage = "en"
-# [languages]
-# config/_default/languages.toml
+Paginate = 10
+preserveTaxonomyNames = true
 
-# [menus]
-# config/_default/menus/menu.xx.toml
+enableRobotsTXT = true # generate robots.txt
+
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+
+enableEmoji = true
+
+# Missing translations will default to this content language
+defaultContentLanguage = "en"
 
 [taxonomies]
+# author = "authors"
 category = "categories"
-tag = "tags"
 series = "series"
+tag = "tags"
 
-[outputs]
-home = ["HTML", "RSS", "JSON"]
+[permalinks]
+page = "/:slug/"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[languages]
+# edit this block for your own language
+[languages.en]
+lang = "en"
+languageName = "English"
+weight = 1
