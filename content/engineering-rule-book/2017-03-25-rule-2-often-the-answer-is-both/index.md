@@ -15,7 +15,7 @@ series:
 tags:
     - "Engineering Rule Book"
 cover:
-  image: images/covers/cover-hyde-park-night.png
+  image: /images/covers/cover-hyde-park-night.png
   caption: "Hyde Park - Early Morning"
   style: full
 ---
