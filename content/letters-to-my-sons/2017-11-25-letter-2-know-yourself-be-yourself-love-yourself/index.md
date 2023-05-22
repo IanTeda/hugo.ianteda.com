@@ -16,7 +16,7 @@ tags:
 - "Letters"
 - "Better Me"
 cover:
-  image: fire_trail_crop.jpg
+  image: /images/covers/cover-fire-trail.png
   caption: "Fire Trail"
   style: full
 ---

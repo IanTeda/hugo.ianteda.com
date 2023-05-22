@@ -15,7 +15,7 @@ series:
 tags:
     - "life"
 cover:
-  image: helicopter_foot_crop.jpg
+  image: /images/covers/cover-helicopter-foot.png
   caption: "Lego helicopter"
   style: full
 ---

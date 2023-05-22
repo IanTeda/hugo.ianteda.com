@@ -12,8 +12,8 @@ date: 2023-05-10
 lastmod: 2023-05-21
 publishDate: 2023-05-10
 cover:
-  image: ian-intake-tower_crop.jpg
-  caption: "Ian Teda - Working on the Cotter dam intake tower jump form"
+  image: images/covers/cover-ian-intake-tower.png
+  caption: "Ian Teda - Working on the Cotter Dam intake tower jump form"
   style: full
 ---
 

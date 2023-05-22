@@ -14,7 +14,7 @@ tags:
 - Family
 weight: 0 #Used for [ordering your content in lists
 cover:
-  image: dirk-teda-rover-crop.jpg
+  image: /images/covers/cover-dirk-teda-rover.png
   caption: "Dirk Teda - Old Land Rover"
   style: full
 ---
