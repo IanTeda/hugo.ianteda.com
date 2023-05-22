@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/" # I get updated in Github workflow
+baseURL = "https://ianteda.github.io/hugo.ianteda.com/" # I get updated in Github workflow
 title = "Ian Teda"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
@@ -20,6 +20,11 @@ enableEmoji = true
 
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
+
+# Enable to turn relative URLs into absolute.
+canonifyURLs = true
+# Enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
+# relativeURLs = true
 
 [taxonomies]
 # author = "authors"
