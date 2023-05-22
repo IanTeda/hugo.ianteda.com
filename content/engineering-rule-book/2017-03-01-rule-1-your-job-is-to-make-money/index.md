@@ -18,7 +18,7 @@ tags:
     - Rules
 toc: true
 cover:
-  image: /images/covers/cover-harbour-bridge-walkway.png
+  image: images/covers/cover-harbour-bridge-walkway.png
   caption: "Sydney Harbour Bridge Walkway"
   style: full
 ---

@@ -7,6 +7,7 @@ keywords: "contradictions"
 date: 2017-03-25 #The datetime assigned to this page.
 lastmod: 2019-01-01 #The datetime at which the content was last modified.
 publishDate: 2019-01-01 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
+slug: rule-2-often-the-answer-is-both
 # categories:
 # - "Engineering Rule Book"
 series:
@@ -14,7 +15,7 @@ series:
 tags:
     - "Engineering Rule Book"
 cover:
-  image: /images/covers/cover-hyde-park-night.png
+  image: images/covers/cover-hyde-park-night.png
   caption: "Hyde Park - Early Morning"
   style: full
 ---

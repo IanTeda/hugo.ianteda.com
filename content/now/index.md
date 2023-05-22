@@ -15,7 +15,7 @@ categories:
 tags:
 - "ianteda.com"
 cover:
-  image: /images/covers/cover-kiama-gerringong-walk.png
+  image: images/covers/cover-kiama-gerringong-walk.png
   caption: Kiama hills on the Kiama to Gerringong walk
   style: full
 ---

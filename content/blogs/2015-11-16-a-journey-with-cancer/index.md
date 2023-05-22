@@ -7,14 +7,14 @@ keywords: "cancer"
 date: 2015-11-15 #The datetime assigned to this page.
 lastmod: 2023-05-10 #The datetime at which the content was last modified.
 publishDate: 2018-12-16 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
-slug: a-journey-with-cancer.html
+slug: a-journey-with-cancer
 categories:
 - Blogs
 tags:
 - Family
 weight: 0 #Used for [ordering your content in lists
 cover:
-  image: /images/covers/cover-dirk-teda-rover.png
+  image: images/covers/cover-dirk-teda-rover.png
   caption: "Dirk Teda - Old Land Rover"
   style: full
 ---
