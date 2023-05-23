@@ -11,9 +11,9 @@ slug: rule-2-often-the-answer-is-both
 # categories:
 # - "Engineering Rule Book"
 series:
-    - "Engineering Rule Book"
+  - "Engineering Rule Book"
 tags:
-    - "Engineering Rule Book"
+  - "Engineering Rule Book"
 cover:
   image: /images/covers/cover-hyde-park-night.png
   caption: "Hyde Park - Early Morning"
