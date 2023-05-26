@@ -12,7 +12,7 @@ lastmod: 2019-01-01
 series:
 - "Engineering Rule Book"
 tags: 
-- "Engineering Rules"
+- "Engineering"
 description: "Be in control of your destiny, by getting out in front of issues and reduce surprises."
 cover:
   image: /images/covers/cover-slippery-surface.png

@@ -8,12 +8,11 @@ lastmod: 2019-01-01
 series:
 - "Engineering Rule Book"
 tags: 
-- "Engineering Rules"
 - "Engineering"
 description: Early mornings, late evenings, weekends and night shifts. Why?
 cover:
   image: /images/covers/cover-center-point-morning.png
-  caption: "Center Point in the Morning"
+  caption: "Sydney - Center Point in the Morning"
   style: full
 ---
 

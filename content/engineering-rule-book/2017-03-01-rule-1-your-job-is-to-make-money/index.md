@@ -12,10 +12,9 @@ slug: rule-1-make-money
 # categories:
 # - "Engineering Rule Book"
 series:
-    - "Engineering Rule Book"
+- "Engineering Rule Book"
 tags:
-    - Engineering
-    - Rules
+- Engineering
 toc: true
 cover:
   image: /images/covers/cover-harbour-bridge-walkway.png

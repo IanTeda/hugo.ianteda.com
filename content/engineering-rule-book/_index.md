@@ -7,4 +7,5 @@ menu:
     identifier: "Engineering Rule Book"
 weight: -1
 slug: engineering-rule-book
+description: "Collection of engineering rules to work by"
 ---

@@ -8,8 +8,7 @@ lastmod: 2019-01-01
 series:
 - "Engineering Rule Book"
 tags: 
-- "Engineering Rules"
-- Engineering
+- "Engineering"
 description: "The best way to build relationships is to say hello and make an effort to learn peoples name."
 cover:
   image: /images/covers/cover-country-road.png

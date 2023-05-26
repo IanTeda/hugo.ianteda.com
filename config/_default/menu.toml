@@ -12,7 +12,7 @@ weight = 2
 identifier = "now"
 url = "/now/"
 
-[[main]]
+[[sidebar]]
 name = "Contact"
 weight = 3
 identifier = "contact"
