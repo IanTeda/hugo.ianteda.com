@@ -4,17 +4,16 @@ linkTitle: "Letter 2 - Know Yourself, Be Yourself, Love Yourself"
 description: "If you do not master your life, life will master you and pass you by.."
 summary: "If you do not master your life, life will master you and pass you by."
 keywords: "yourself"
-date: 2017-11-25 #The datetime assigned to this page.
-lastmod: 2019-01-01 #The datetime at which the content was last modified.
-publishDate: 2019-01-01 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
+date: 2017-11-25
+lastmod: 2019-01-01
+publishDate: 2019-01-01
 slug: letter-2-know-yourself-be-yourself-love-yourself
-categories:
-- "Letters"
+# categories:
+# - "Letters"
 series:
 -  "Letters to my Sons"
 tags:
 - "Letters"
-- "Better Me"
 cover:
   image: /images/covers/cover-fire-trail.png
   caption: "Fire Trail"
@@ -33,4 +32,4 @@ On the subject of self-awareness,
 
 Do your habits reflect your goals, does your character reflect the person you want to be, do you love yourself and the person you are?  If not, take action. Because if you do not master your life, life will master you and pass you by.
 
-*Have a read of other [Letters to my Children](/letters/)*
+*Have a read the other [Letters to my Sons](/letters-to-my-sons/)*

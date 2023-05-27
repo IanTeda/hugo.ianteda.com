@@ -48,7 +48,7 @@ If people don't understand you, the chances are you haven't simplified the conce
 
 The principle is also true of writing. The art to a good article is being able to express yourself in as few words as possible. While not losing the essences of your message.
 
-*Check out the [The Engineering Rule Book](/engineering-rules/) for the other rules.*
+*Check out [The Engineering Rule Book](/engineering-rule-book/) for the other rules.*
 
 ---
 

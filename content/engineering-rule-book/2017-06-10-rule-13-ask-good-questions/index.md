@@ -60,7 +60,7 @@ I check-in by asking them to paraphrase -- repeat what I just said in there own 
 
 > Question everything. Learn something. Answer nothing. – Engineer’s Motto
 
-*Check out the [The Engineering Rule Book](/engineering-rules/) for the other rules.*
+*Check out [The Engineering Rule Book](/engineering-rule-book/) for the other rules.*
 
 ---
 

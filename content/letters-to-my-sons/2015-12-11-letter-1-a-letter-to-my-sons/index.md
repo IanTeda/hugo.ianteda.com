@@ -8,12 +8,12 @@ date: 2015-12-10 #The datetime assigned to this page.
 lastmod: 2019-01-01 #The datetime at which the content was last modified.
 publishDate: 2019-01-01 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
 slug: letter-1-to-my-sons
-categories:
-    - Family
+# categories:
+# - Family
 series:
-    - "Letters to My Sons"
+- "Letters to My Sons"
 tags:
-    - "life"
+- "Letter"
 cover:
   image: /images/covers/cover-helicopter-foot.png
   caption: "Lego helicopter"
@@ -29,3 +29,5 @@ Time is the most valuable thing you have, as death comes to us all. So spend it 
 Show respect to others and demand they respect you. Abuse no one and nothing because abuse turns the wise into fools and robs the spirit of its vision.
 
 Give thanks for what you have and for the joy of life. If you see no reason to give thanks, the fault lies only in yourself.
+
+*Have a read the other [Letters to my Sons](/letters-to-my-sons/)*

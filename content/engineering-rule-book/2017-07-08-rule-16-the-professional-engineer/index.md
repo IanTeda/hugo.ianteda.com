@@ -30,4 +30,4 @@ Because of the abstraction of information, it becomes easy for professionals to 
 
 As professionals we are trusted with information. And with that trust comes the responsibility to give the correct advice, to the best of knowledge. Keep in mind that your name is everything ([The Personal Branding Defence](/blogs/the-personal-branding-defence.html)) and that it is a small profession.
 
-*Check out the [The Engineering Rule Book](/engineering-rules/) for the other rules.*
+*Check out [The Engineering Rule Book](/engineering-rule-book/) for the other rules.*

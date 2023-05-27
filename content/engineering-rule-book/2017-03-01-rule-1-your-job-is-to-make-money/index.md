@@ -8,7 +8,7 @@ keywords: "make money"
 date: 2017-03-01 #The datetime assigned to this page.
 lastmod: 2017-03-01 #The datetime at which the content was last modified.
 publishDate: 2017-03-01 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
-slug: rule-1-make-money
+slug: rule-1-your-job-is-to-make-money
 # categories:
 # - "Engineering Rule Book"
 series:
@@ -54,4 +54,4 @@ Leaving behind a negative legacy for those that work for you, the clients that p
 
 > The best way to make money is to leave behind a positive legacy. It is through that legacy that you add value. And if your client sees the value they will be happy to have you build something else (for the right price).
 
-*Check out [The Engineering Rule Book](/engineering-rules/) for the other rules.*
+*Check out [The Engineering Rule Book](/engineering-rule-book/) for the other rules.*

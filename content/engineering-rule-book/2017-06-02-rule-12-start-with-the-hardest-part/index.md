@@ -28,4 +28,4 @@ When you have the choice, always start with the hardest part first. By achieving
 
 **Psychological** you are providing a proof case. If we can smash the hardest part, the rest is going to be easy. Let's get after it. We have made it up the hill and the rest is downhill. Awesome.
 
-*Check out the [The Engineering Rule Book](/engineering-rules/) for the other rules.*
+*Check out [The Engineering Rule Book](/engineering-rule-book/) for the other rules.*

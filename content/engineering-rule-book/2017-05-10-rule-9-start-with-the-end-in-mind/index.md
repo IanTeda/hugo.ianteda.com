@@ -32,4 +32,4 @@ The path less traveled can be dangerous, it is uncharted and filled with traps. 
 
 > To become 'unique,' the challenge is to fight the hardest battle which anyone can imagine until you reach your destination. – A. P. J. Abdul Kalam
 
-*Check out the [The Engineering Rule Book](/engineering-rules/) for the other rules.*
+*Check out [The Engineering Rule Book](/engineering-rule-book/) for the other rules.*

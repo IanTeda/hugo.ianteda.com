@@ -32,4 +32,4 @@ When bringing bad news about the costs, have an understanding why your qualities
 
 Give me good news, give me bad news. Just don't give me surprises. No one likes surprises. Make your mistakes ones of ambition, not sloth -- [The Bold Mistake Instruction](/blog/the-bold-mistake-instruction).
 
-*Check out the [The Engineering Rule Book](/engineering-rules/) for the other rules.*
+*Check out [The Engineering Rule Book](/engineering-rule-book/) for the other rules.*

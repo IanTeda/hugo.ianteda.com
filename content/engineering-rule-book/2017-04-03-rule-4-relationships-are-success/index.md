@@ -26,4 +26,4 @@ It does matter who you know, as it is often through the 2nd and 3rd levels of re
 
 The [rule 2](/engineering-rules/rule-2-often-the-answer-is-both/) here — the flip side, the other side of the coin — is that it isn’t a popularity contest and that you are not there to make friends. That often you will need to say no, making people upset. The easy answer is "Yes", but don’t let yourself be pressured into a yes or avoid a hard truth because you don’t want to upset someone.
 
-*Check out the [The Engineering Rule Book](/engineering-rules/) for the other rules.*
+*Check out [The Engineering Rule Book](/engineering-rule-book/) for the other rules.*

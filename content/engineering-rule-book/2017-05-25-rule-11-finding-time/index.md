@@ -45,4 +45,4 @@ It is safe to say that you cannot make a baby with nine women in one month. That
 
 > Time is, time was, but time shall be no more. – James Joyce
 
-*Check out the [The Engineering Rule Book](/engineering-rules/) for the other rules.*
+*Check out [The Engineering Rule Book](/engineering-rule-book/) for the other rules.*

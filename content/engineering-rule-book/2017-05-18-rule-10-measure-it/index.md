@@ -41,7 +41,7 @@ The best tool I have found for measuring on construction projects is [Earn Value
 
 > If you don't know how your are performing relative to the plan, how do you know when you are off track and need correction?" – Ian Teda
 
-*Check out the [The Engineering Rule Book](/engineering-rules/) for the other rules.*
+*Check out [The Engineering Rule Book](/engineering-rule-book/) for the other rules.*
 
 ---
 

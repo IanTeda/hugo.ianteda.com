@@ -34,4 +34,4 @@ Should I be a good cop or a bad cop? The answer is both. You must be able to go 
 
 When faced with opposing views, often the answer is both.
 
-*Check out [The Engineering Rule Book](/engineering-rules/) for the other rules.*
+*Check out [The Engineering Rule Book](/engineering-rule-book/) for the other rules.*
