@@ -17,9 +17,9 @@ tags:
 - Engineering
 toc: true
 cover:
-  image: /images/covers/cover-harbour-bridge-walkway.png
-  caption: "Sydney Harbour Bridge Walkway"
-  style: full
+ image: /images/covers/cover-harbour-bridge-walkway.png
+ caption: "Sydney Harbour Bridge Walkway"
+ style: full
 ---
 
 > Your job is to make money. By building it safely, building it once and leaving a positive legacy
