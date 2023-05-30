@@ -13,9 +13,8 @@ slug: why-barbells
 # categories:
 # - category_1
 # - category_2
-# series:
-# -  series_1
-# -  series_2
+series:
+-  "Strength Training"
 tags:
 - Strength
 draft: false

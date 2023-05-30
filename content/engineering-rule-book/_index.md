@@ -8,4 +8,5 @@ menu:
 weight: -1
 slug: engineering-rule-book
 description: "A collection of rules to engineer by."
+paginate: 30
 ---

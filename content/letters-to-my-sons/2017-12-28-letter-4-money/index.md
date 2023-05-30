@@ -13,8 +13,8 @@ tags:
 - "Letters"
 description: "A letter to my children about money."
 cover:
-  image: /images/covers/cover-granny-puzzle.png
-  caption: "Kids Puzzle"
+  image: /images/covers/cover-sand-tracks.png
+  caption: "Tracks in the sand"
   style: full
 ---
 

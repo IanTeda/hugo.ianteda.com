@@ -13,9 +13,8 @@ slug: why-i-started-brazilian-jiu-jitsu
 # categories:
 # - category_1
 # - category_2
-# series:
-# -  series_1
-# -  series_2
+series:
+-  "Strength Training"
 tags:
 - "Brazilian Jiu Jitsu"
 draft: false
