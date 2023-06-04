@@ -1,4 +1,4 @@
-baseURL = "https://ianteda.github.io/hugo.ianteda.com/" # I get updated in Github workflow
+baseURL = "https://ianteda.com/"
 title = "Ian Teda"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
