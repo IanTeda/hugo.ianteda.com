@@ -22,11 +22,10 @@ draft: false
 # Template specific - Minimo Theme
 toc: true
 cover:
-  image: /images/covers/cover-train-tracks.png
-  caption: "Cover Image - Caption"
+  image: /images/covers/cover-escalator.png
+  caption: "Sydney Trains - Martin Place Escalators"
   style: full
 ---
-
 
 > An API allows one piece of software talking to another piece of software
 

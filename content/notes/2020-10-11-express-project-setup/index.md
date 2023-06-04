@@ -23,14 +23,14 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
-  caption: "Cover Image - Caption"
+  image: /images/covers/cover-express-code.png
+  caption: "Express JS Code"
   style: full
 ---
 
 Post number 01 of a series of posts on writing and Express Sequelize API server.
 
-*Code reference: [Git Commit](*[https://github.com/IanTeda/express-sequelize-api/commit/1e86eda81472d4c9ccc26fe0782eb9353a944e2b](https://github.com/IanTeda/express-sequelize-api/commit/1e86eda81472d4c9ccc26fe0782eb9353a944e2b)*)*
+Code reference: [Git Commit][https://github.com/IanTeda/express-sequelize-api/commit/1e86eda81472d4c9ccc26fe0782eb9353a944e2b](https://github.com/IanTeda/express-sequelize-api/commit/1e86eda81472d4c9ccc26fe0782eb9353a944e2b)
 
 ## Create Github Repository
 
@@ -40,7 +40,12 @@ Start by creating a [new repository](https://docs.github.com/en/free-pro-team@la
 - A .gitignore file for node
 - A MIT license 
 
-![](/content/images/2020/10/Screen-Shot-2020-10-11-at-9.15.40-am.png)Github initialisation options
+{{< 
+    figure src="screen-shot-new-git.png"
+    attr="Screen Shot - Github initialisation options"
+    class="align-center"
+>}}
+
 ## Clone Repository Onto Local Machine
 
 Grab the repository https link, open up your favourite terminal and navigate to the root code workspace folder.
@@ -53,6 +58,7 @@ cd express-sequelize-api
 ```
 
 Clone Repository & Change Directory in Local Repository
+
 ## Create NPM Package
 
 > npm is the package manager for [Node.js](http://nodejs.org/).
@@ -110,6 +116,7 @@ After you have answered the questions npm will generate a package.json file simi
 ```
 
 npm init generated package.json file
+
 ## Setup Babel
 
 > Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript
@@ -181,6 +188,7 @@ git push -u origin main
 ```
 
 Terminal command to commit file changes to repository
+
 #### References
 
 - [Git]([https://git-scm.com/](https://git-scm.com/))

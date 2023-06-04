@@ -23,7 +23,7 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
+  image: /images/covers/cover-bush-stairs.png
   caption: "Cover Image - Caption"
   style: full
 ---

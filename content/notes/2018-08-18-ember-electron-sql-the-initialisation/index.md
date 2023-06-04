@@ -23,8 +23,8 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
-  caption: "Cover Image - Caption"
+  image: /images/covers/cover-tree-teddy.png
+  caption: "Teddy in the Wild"
   style: full
 ---
 
@@ -32,24 +32,28 @@ cover:
 
 We are going to start by scaffold out a [new Ember app](https://guides.emberjs.com/release/getting-started/quick-start/) in the terminal. Open up your favourite [terminal](https://hyper.is/) and `cd` into your workspace. Then run the new Ember application command:
 
-`cd ~\Workspaces\`
-
-`ember new EmberElectronSQL`
+```bash
+cd ~\Workspaces\
+ember new EmberElectronSQL
+```
 
 You should see Ember create a bunch of files and then fetch some npm packages in your terminal window. After Ember tells us the initialisation was successful, lets double check by `cd`'ing into the generated Ember application directory, starting up Ember and browsing to [http://localhost:4200/](http://localhost:4200/) in your favourite [browser](https://www.google.com/chrome/).
 
-`cd EmberElectronSQL`
-
-`npm start`
+```bash
+cd EmberElectronSQL
+npm start
+```
 
 You should see the Ember Tomster welcome screen in your browser. Awesome! It worked and we are off and running.
-
 
 ### Scaffold Electron
 
 Now that Ember is working it is time to add Electron through the [Ember Electron](https://ember-electron.js.org/) addon. Going back to your terminal install the addon with:
 
-`ember install ember-electron`
+```bash
+ember install ember-electron
+```
+
 
 After a successful install, update the npm run scripts so it starts the Ember Electron app by default by editing the *./package.json* "scripts" to:
 
