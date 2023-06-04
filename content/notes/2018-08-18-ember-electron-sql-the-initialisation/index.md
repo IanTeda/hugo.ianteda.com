@@ -19,7 +19,6 @@ slug: ember-electron-sql-the-initialisation
 tags:
 - "Ember"
 - "Electron"
-- "Coding"
 draft: false
 # Template specific - Minimo Theme
 cover:

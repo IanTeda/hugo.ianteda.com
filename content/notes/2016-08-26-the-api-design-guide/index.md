@@ -17,7 +17,7 @@ slug: the-api-design-guide
 # -  series_1
 # -  series_2
 tags:
-- "Coding"
+- "API"
 draft: false
 # Template specific - Minimo Theme
 toc: true
