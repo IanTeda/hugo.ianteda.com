@@ -21,8 +21,8 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
-  caption: "Cover Image - Caption"
+  image: /images/covers/cover-white-belt.png
+  caption: "Zero Stripe White Belt"
   style: full
 ---
 

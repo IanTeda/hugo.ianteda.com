@@ -1,7 +1,7 @@
 ---
 # [Front Matter Formats](https://gohugo.io/content-management/front-matter/)
 title: "The Investment Strategy"
-description: "A description of the content."
+description: "There are many paths to financial freedom."
 keywords: "The Investment Strategy"
 date: 2018-03-29
 publishDate: 2018-03-29
@@ -21,8 +21,8 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
-  caption: "Cover Image - Caption"
+  image: /images/covers/cover-caution-steep-1.png
+  caption: "Steep Decent - Caution"
   style: full
 ---
 
@@ -109,10 +109,30 @@ To avoid chasing big movements, your trade needs to be big enough to offset the 
 I am proposing to implement a variation of the [All Seasons](http://yahoofinance.tumblr.com/post/102956492899/tony-robbins-ray-dalios-all-weather-portfolio) portfolio based on the work of [Ray Dalio](https://en.wikipedia.org/wiki/Ray_Dalio). With more weight towards bonds, as it appears we are moving into a more unpredictable market and debit accumulation (early 2018).
 
 The below table shows the broad allocation between asset classes.
-ASSETSALLOCATIONBonds40%Stocks30%Cash20%Commodities10%**TOTAL ASSETS****100%**
+
+| ASSETS | ALLOCATION |
+|:------:|:----------:|
+| Bonds  | 40% |
+| Stocks | 30% |
+| Cash   | 20% |
+| Commodities | 10% |
+| **TOTAL ASSETS**| **100%** |
+
 The below table shows a further breakdown of the asset classes with diversification across markets and investments.
-ASSETSALLOCATIONIntermediate Bonds (AUS)40.0%Cash20.0%Australia ASX2006.0%Australian Small Cap4.8%Large Cap (US)4.8%Mid Cap (US)4.8%Emerging Markets4.8%World (Ex-US)4.8%Gold5.0%Commodities (Ex-Gold)5.0%**TOTAL****100.0%**
----
+
+| ASSETS | ALLOCATION |
+|:------:|:----------:|
+| Intermediate Bonds (AUS) | 40.0%
+| Cash | 20.0% |
+| Australia ASX200 | 6.0% |
+| Australian Small Cap | 4.8% |
+| Large Cap (US) | 4.8% |
+| Mid Cap (US) | 4.8% |
+| Emerging Markets | 4.8% |
+| World (Ex-US) | 4.8% | 
+| Gold | 5.0% | 
+| Commodities (Ex-Gold) | 5.0% | 
+| **TOTAL**| **100.0%** |
 
 ## References 
 

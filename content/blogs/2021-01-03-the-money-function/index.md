@@ -1,7 +1,7 @@
 ---
 # [Front Matter Formats](https://gohugo.io/content-management/front-matter/)
 title: "The Money Functionality"
-description: "A description of the content."
+description: "In its most basic form, the purpose (functionality) of money is to be a medium of exchange across space and time."
 keywords: "The Money Functionality"
 date: 2021-01-02
 publishDate: 2021-01-02
@@ -22,7 +22,7 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
+  image: /images/covers/cover-creek-3.png
   caption: "Cover Image - Caption"
   style: full
 ---

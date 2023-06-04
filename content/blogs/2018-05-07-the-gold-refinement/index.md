@@ -1,7 +1,7 @@
 ---
 # [Front Matter Formats](https://gohugo.io/content-management/front-matter/)
 title: "The Gold Refinement"
-description: "A description of the content."
+description: "A physical asset that is accumulated, rather than consumed."
 keywords: "The Gold Refinement"
 date: 2018-05-07
 publishDate: 2018-05-07
@@ -21,8 +21,8 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
-  caption: "Cover Image - Caption"
+  image: /images/covers/cover-gold-bars.png
+  caption: "Gold Bars"
   style: full
 ---
 

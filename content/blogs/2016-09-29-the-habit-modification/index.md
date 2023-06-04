@@ -21,18 +21,9 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
-  caption: "Cover Image - Caption"
+  image: /images/covers/cover-car-rock.png
+  caption: "The Rocks, Sydney - Car on Rock"
   style: full
----
-
----
-title: The Habit Modification
-slug: the-habit-modification
-date_published: 2016-09-29T01:02:00.000Z
-date_updated: 2019-01-01T23:44:59.000Z
-tags: Better Me
-excerpt: It is our habits that influence our actions, and it is our actions that define our character.
 ---
 
 > Your beliefs become your thoughts; Your thoughts become your words; Your words become your actions; Your actions become your habits; Your habits become your values; Your values become your destiny. – Mahatma Ghandi.
@@ -47,7 +38,12 @@ I explored what habits are and how they work in a previous post, [The Habit Loop
 
 > Men's natures are alike; it is their habits that separate them. – Confucius, Analects.
 
-![](/content/images/2019/01/habit-loop-1.jpg)The Habit Loop
+{{< 
+    figure src="habit-loop.jpg"
+    attr="The Habit Loop"
+    class="align-center"
+>}}
+
 Most habits sneak up on use by surprise, because we are not aware of the cues and rewards. But habits can be intentionally formed by putting together a cue, routine, and reward. To form a new habit spend time cultivating the craving for the reward that the routine provides. This in turn will drive the habit loop and hard wire in the craving.
 
 Want to exercise more? Choose a cue, such as going to the gym as soon as you wake up, and a reward, such as a smoothie after each workout. Then think about that smoothie, or about the endorphin rush you’ll feel.
@@ -59,7 +55,13 @@ However for must of us, we already have a lifetime of habits. And these existing
 Most of our habits have occurred for so long that we pay little attention to them. Often not recognising the habit loop as it forms. It seems simple, but once you understand how habits works and can recognise the cues and rewards. You are halfway to changing them.
 
 ### The Habit Modification Framework
-![](/content/images/2019/01/book-power-of-habit-1.jpg)The Power of Habit - Why we do what we do in life and business
+
+{{< 
+    figure src="book-power-of-habit.jpg"
+    attr="The Power of Habit - Why we do what we do in life and business" attrlink="https://amzn.com/081298160X"
+    class="align-center"
+>}}
+
 In his book "[The Power of Habit - Why we do what we do in life and business](https://amzn.com/081298160X)" Charles Duhigg proposes a framework[[1]]([1]) for changing habits. I have modified it slightly into the framework below.
 
 **Step 1: Awareness**

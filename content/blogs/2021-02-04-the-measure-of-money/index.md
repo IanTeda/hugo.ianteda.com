@@ -19,11 +19,11 @@ slug: the-measure-of-money
 tags:
 - "Money"
 - "Economics"
-draft: true
+draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
-  caption: "Cover Image - Caption"
+  image: /images/covers/cover-bitcoin-gold.png
+  caption: "Bitcoin Gold"
   style: full
 ---
 

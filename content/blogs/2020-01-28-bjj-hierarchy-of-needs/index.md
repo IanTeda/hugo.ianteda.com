@@ -21,17 +21,29 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
+  image: /images/covers/cover-jiu-jitsu-hierarchy.png
   caption: "Cover Image - Caption"
   style: full
 ---
 
 Maslow's Hierarchy of Needs is a physiological model that suggests a tiered hierarchy of needs, in which lower down needs have to be satisfied prior to the pursuit of higher needs.
-![](/content/images/2020/01/20200121-Maslows-Sketch-1.jpg)
+
+{{< 
+    figure src="maslows-hierarchy.jpg"
+    attr="Maslow's Hierarchy of Needs" attrlink="https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs"
+    class="align-center"
+>}}
+
 i.e. From a physiological point of view, the model suggest there is no point feeling accomplished if you have no relationships. There is no point having relationships if you are not safe. And there is no point being safe if you don't have food.
 
 Similarly, Brazilian Jiu Jitsu (BJJ) has a hierarchy of needs (refer Ryron Gracie Youtube video below)
-![](/content/images/2020/01/20200124-Jiu-Jitsu-Hierarcy-of-Control.jpg)
+
+{{< 
+    figure src="jiu-jitsu-hierarcy-of-control.jpg"
+    attr="Jiu Jitsu's Hierarchy of Control" attrLink="https://youtu.be/AumRTx91IHk"
+    class="align-center"
+>}}
+
 **Firstly**, we should be defending against submissions. You are going to have difficulty escaping if you keep getting caught in submissions.
 
 What submissions are there from this position?
@@ -68,3 +80,5 @@ Given it is a hierarchy, we should focus our BJJ training first on our defences,
 4. Defend
 
 ### References
+
+{{< youtube AumRTx91IHk >}}

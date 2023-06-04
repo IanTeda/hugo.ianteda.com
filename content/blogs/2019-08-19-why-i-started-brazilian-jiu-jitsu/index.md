@@ -20,8 +20,8 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
-  caption: "Cover Image - Caption"
+  image: /images/covers/cover-hjj-morning.png
+  caption: "High Jiu Jitsu - Morning"
   style: full
 ---
 
