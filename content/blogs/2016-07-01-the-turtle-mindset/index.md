@@ -21,8 +21,8 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
-  caption: "Cover Image - Caption"
+  image: /images/covers/cover-turtle.png
+  caption: "Turtle Swimming"
   style: full
 ---
 
@@ -38,13 +38,29 @@ Say you invest $100,000 from your widget profits, but the investment doesn't wor
 
 ### Original Investment: $100,000
 
-Investment LossLoss PercentageReinvestment WinReinvestment Return$        10,00010%$         10,00011%$        20,00020%$         20,00025%$        30,00030%$         30,00043%$        40,00040%$         40,00067%$        50,00050%$         50,000100%$        60,00060%$         60,000150%$        70,00070%$         70,000233%$        80,00080%$         80,000400%$        90,00090%$         90,000900%
-![](/content/images/2019/01/win-loss-ratio-graph.jpg)Win Loss - Percentage Graph
+|Investment Loss|Loss Percentage|Reinvestment Win|Reinvestment Return|
+|:-------------:|:-------------:|:--------------:|:-----------------:|
+|$ 10,000 | 10%           |$ 10,000| 11% |
+|$ 20,000 | 20%           |$ 20,000| 25% |
+|$ 30,000 | 30%           |$ 30,000| 43% |
+|$ 40,000 | 40%           |$ 40,000| 67% |
+|$ 50,000 | 50%           |$ 50,000| 100%   |
+|$ 60,000 | 60%           |$ 60,000| 150%  |
+|$ 70,000 | 70%           |$ 70,000| 233%  |
+|$ 80,000 | 80%           |$ 80,000| 400%    |
+|$ 90,000 | 90%           |$ 90,000| 900%     
+
+{{< 
+    figure src="win-loss-ratio-graph.jpg"
+    attr="Win Loss - Percentage Graph"
+    class="align-center"
+>}}
+
 > Watch the turtle. He only moves forward by sticking his neck out. – Louis V. Gerstner, Jr.
 
 Richard Branson is known for his "Screw it let’s do it" tag line, but like all successful business people he always protects his down side. At the launch of Virgin Atlantic Branson negotiated with Boeing to buy back his plane if the venture didn't work out[[3]]([3]), limiting the downside or loses to 6 months of Virgin profits. Yes you need to take risks (see  "[The Bold Mistake Instruction](/blogs/the-bold-mistake-instruction/)"), but betting the farm is rarely a good plan. Always protect your principle[[4]]([4]).
 
-##### Footnotes
+##### References
 
 ---
 

@@ -21,8 +21,8 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
-  caption: "Cover Image - Caption"
+  image: /images/covers/cover-ian-intake-tower.png
+  caption: "Ian Teda - Cotter Dam Intake Tower Jump Form"
   style: full
 ---
 

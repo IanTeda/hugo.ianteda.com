@@ -22,8 +22,8 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/cover-train-tracks.png
-  caption: "Cover Image - Caption"
+  image: /images/covers/cover-creek-morning-3.png
+  caption: "Audley - Creek Morning"
   style: full
 ---
 
@@ -36,7 +36,13 @@ Who doesn't want to find their passion. It's a romantic notion after all. That i
 > To find yourself, think for yourself. – Socrates
 
 Life doesn't owe you happiness. It doesn't owe you a successful, meaningful and rewarding career. You have to work for it, you need to earn it. By refining your craft, becoming a master craftsman. Being so good they can't ignore you. Put aside the question of a true passion and focus on becoming good. It isn't about you, it's about what you can do for the world. The passion, satisfaction and enjoyment will follow.
-![](/content/images/2019/01/book-so-good.jpg)[Book Cover - So Good They Can't Ignore You](http://amzn.to/1reowPn)
+
+{{< 
+    figure src="book-so-good.jpg"
+    attr="So Good They Can't Ignore You - By Cal Newport" attrlink="http://amzn.to/1reowPn"
+    class="align-center"
+>}}
+
 "So Good They Can't Ignore You" by [Cal Newport](http://calnewport.com/) defines people who have meaningful careers as having the following traits in there work[[2]]([2]) :
 
 - **Autonomy**: Control over their day. What they work on and their priorities.
