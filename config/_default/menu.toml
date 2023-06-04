@@ -6,17 +6,17 @@
 # identifier = "blogs"
 # url = "/blogs/"
 
-[[main]]
-name = "Now"
-weight = 2
-identifier = "now"
-url = "/now/"
+# [[main]]
+# name = "Now"
+# weight = 2
+# identifier = "now"
+# url = "/now/"
 
-[[sidebar]]
-name = "Contact"
-weight = 3
-identifier = "contact"
-url = "/contact/"
+# [[sidebar]]
+# name = "Contact"
+# weight = 3
+# identifier = "contact"
+# url = "/contact/"
 
 # [[sidebar]]
 #     name = "Blogs"
