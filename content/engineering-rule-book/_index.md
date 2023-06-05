@@ -9,6 +9,4 @@ weight: -1
 slug: engineering-rule-book
 description: "A collection of rules to engineer by."
 paginate: 30
-aliases:
-- '/series/the-engineering-rule-book'
 ---
