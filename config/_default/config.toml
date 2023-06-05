@@ -35,7 +35,9 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
+# https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
+plainIDAnchors = true
 hrefTargetBlank = true
 
 [languages]
@@ -44,3 +46,8 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
+
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5

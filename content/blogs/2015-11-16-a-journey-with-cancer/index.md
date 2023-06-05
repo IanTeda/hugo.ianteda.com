@@ -3,7 +3,8 @@ title: "A Journey With Cancer"
 linkTitle: "A Journey With Cancer"
 description: "My father's journey with cancer demonstrated his character well, the person he was and the life that he lived."
 summary: " My father's journey with cancer demonstrated his character well, the person he was and the life that he lived."
-keywords: "cancer"
+keywords: 
+- cancer
 date: 2015-11-15 #The datetime assigned to this page.
 lastmod: 2023-05-10 #The datetime at which the content was last modified.
 publishDate: 2018-12-16 #If, in the future, the content will not be rendered unless the --buildFuture flag is passed to Hugo.
