@@ -14,7 +14,7 @@ import stripDebug from 'gulp-strip-debug';
 gulp.task("coverImage", () => {
     // Source and destination files
     const files = {
-        src: ['./src/cover-images/*.jpg'],
+        src: ['./src/cover-images/*.{jpg,png}'],
         dest: ['./static/images/covers/']
     }
 
