@@ -15,5 +15,5 @@ cover:
   style: full
 ---
 
-I can be contacted on any of the socials links below or [mailto:ian@teda.id.au](mailto:ian@teda.id.au)
+I can be contacted on any of the socials links below or [mailto:ian@teda.id.au](mailto:ian+website@teda.id.au)
 
