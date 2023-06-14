@@ -36,7 +36,7 @@ For most of us, our home is our biggest financial investment, and as such, it re
 
 I am sharing this model with the world to help others better how interest, duration, and value impact their home loan over time.
 
-> Download Home Loan Model (Rev 00.00): {{< download url="00.00_home_loan_model.ods" />}}
+> Download Home Loan Model (Rev 00.00): {{< download url="home_loan_model_0000.ods" />}}
 
 The model has six parts to it:
 
