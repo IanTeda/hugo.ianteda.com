@@ -34,7 +34,7 @@ cover:
 
 For most of us, our home is our biggest financial investment, and as such, it requires considerable planning and consideration. Small changes to our mortgage can significantly impact our lifestyles and financial position into the future. To better understand these factors, I created a home loan model with a sensitivity and two-dimensional matrix of monthly instalments as interest rates and property values change.
 
-I am sharing this model with the world to help others better how interest, duration, and value impact their home loan over time.
+I am sharing this model with the world to help others better understand how interest, duration, and value impact their home loan over time.
 
 > Download Home Loan Model (Rev 00.00): {{< download url="home_loan_model_0000.ods" />}}
 
