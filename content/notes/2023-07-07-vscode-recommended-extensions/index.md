@@ -24,7 +24,7 @@ tags:
 draft: false
 # Template specific - Minimo Theme
 cover:
-  image: /images/covers/vscode.png
+  image: /images/covers/cover-vscode.png
   caption: "VS Code Cover Image"
   style: full
 ---
