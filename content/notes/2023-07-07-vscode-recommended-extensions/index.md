@@ -88,3 +88,17 @@ A collection of VS Code extensions for the Hugo static website generator;
   ]
 }
 ```
+
+## Ansible
+
+A collection of VS Code extensions for Ansible playbooks:
+
+```json
+{
+  "recommendations": [
+    "redhat.ansible",
+    "dhoeric.ansible-vault",
+    "MattiasBaake.vscode-snippets-for-ansible"
+  ]
+}
+``````
