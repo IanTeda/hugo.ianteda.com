@@ -32,7 +32,7 @@ I use [Ansible](https://www.redhat.com/en/ansible-collaborative) to manage my ho
 
 I like to create a specific `ansible` user on the remote host computer so that Ansible can do its thing. Additionally, Ansible requires `ssh` access to the computer, and since Ansible will not work without a remote user, it is a manual task I find myself doing a bit.
 
-The process includes creating a remote user, copying the `ansible` public SSH key to the remote machine, and aliasing the Ansible user for easier login.
+The process includes creating a remote user, copying the `ansible` public SSH key to the remote machine, and update `~./ssh/config` to alias the Ansible user for easier login.
 
 ## 1. Create Remote User
 
@@ -59,21 +59,25 @@ ssh-copy-id -p 2222 -f -i ~/.ssh/ansible.pub ansible@<computer>
 ```
 
 ```bash
-ssh -p 2222 ansible@<computer> "chmod 700 .ssh; chmod 640 .ssh/authorized_keys"
+ssh -p 2222 -i ~/.ssh/ansible.pub ansible@<computer> "chmod 700 .ssh; chmod 640 .ssh/authorized_keys"
 ```
 
 ## 3. Alias Ansible in SSH Config
 
-The final step is to alias the `ansible` user and remote computer in the SSH config file so we do not need to use the port and identity flags when SSH'ing in.
-
-`~/.ssh/config`
+The final step is to update [`.shh/config`](https://linuxize.com/post/using-the-ssh-config-file/) to alias the `ansible` user and remote computer in the SSH config file so we do not need to use the port and identity flags when SSH'ing in.
 
 ```ini
+#-- ~./ssh/config
+
+... existing code ...
+
 Host <computer>
  HostName <computer>
  IdentityFile ~/.ssh/ansible
  User ansible
  Port 2222
+
+... existing code ...
 ```
 
 ## 4.Login Test
