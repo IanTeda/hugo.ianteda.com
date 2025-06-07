@@ -6,7 +6,7 @@ keywords:
   - SSH
 date: 2025-05-13
 publishDate: 2025-05-13
-lastmod: 2025-05-13
+lastmod: 2025-06-07
 slug: ansible-user
 # aliases:
 # - old_url_path
@@ -36,7 +36,7 @@ The process includes creating a remote user, copying the `ansible` public SSH ke
 
 ## 1. Create Remote User
 
-First, we need to create the Ansible user on the remote machine by SSH'ing into the remote machine with an existing user, adding the `ansible` user, and exiting from the SSH session.
+First, we need to create the Ansible user on the remote machine by SSH'ing into the remote machine with an existing user, adding the `ansible` user, making sure they are a `sudo` user, and exiting from the SSH session.
 
 ```bash
 ssh <existing_user>@<computer>
@@ -44,6 +44,10 @@ ssh <existing_user>@<computer>
 
 ```bash
 sudo adduser ansible
+```
+
+```bash
+usermod -aG sudo ansible
 ```
 
 ```bash
